@@ -18,6 +18,9 @@ NRC: 10149
 * Emplear correctamente las operaciones de suma, multiplicación y división en números complejos tomando en cuenta sus propiedades.
 
 ## 2. Marco teorico
+
+![map1](https://user-images.githubusercontent.com/93224166/155150198-e923a394-bcb9-46d1-9cd7-a7e838d9eee0.png)
+
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 **1.-Transforme a su forma polar:**
 
@@ -76,6 +79,7 @@ NRC: 10149
 
 
 ## 4. Video 
+https://youtu.be/aCagwG7Gotw
 ## 5. Conclusiones
 * En cordenas rectangulares podemos hacer todas las operaciones como son suma, resta, multiplicacion y division.
 * En cordenasa polares no podemos realizar ni suma ni resta, pero es mas facil multiplicar y dividir con cordenas polares.
@@ -85,3 +89,4 @@ NRC: 10149
 * Los complejos aplican las mismas propiedades para la suma que los números reales sin embargo para el producto y la división tienen ciertas limitaciones, debido a esto la suma se trabaja en coordenadas rectangulares y el producto y división en coordenadas polares (forma fasorial).
 
 ## 6. Bibliografia
+Floyd, T. L. (2010). Principios de circuitos el??ctricos. Pearson Educacion.
