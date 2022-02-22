@@ -42,7 +42,7 @@ NRC: 10149
 ![3 3](https://user-images.githubusercontent.com/93224166/155058726-1a36e057-1b2d-4321-88f0-10fc29e258b6.png)
 
 
-**4.-Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
+
 
 
 
