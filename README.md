@@ -9,7 +9,14 @@ NRC: 10149
 ### TEMA: Fasores
 ## 1. Objetivos
 ### Objetivo general
+* Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 ### Objetivos especificos
+* Utilizar las herramientas de los números complejos para interpretar correctamente a los fasores
+
+* Analizar la relación que existe entre la forma polar y rectangular de un numero complejo para su correcta conversión.
+
+* Emplear correctamente las operaciones de suma, multiplicación y división en números complejos tomando en cuenta sus propiedades.
+
 ## 2. Marco teorico
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 **1.-Transforme a su forma polar:**
@@ -70,4 +77,11 @@ NRC: 10149
 
 ## 4. Video 
 ## 5. Conclusiones
+* En cordenas rectangulares podemos hacer todas las operaciones como son suma, resta, multiplicacion y division.
+* En cordenasa polares no podemos realizar ni suma ni resta, pero es mas facil multiplicar y dividir con cordenas polares.
+
+* Debido a la relación que el plano complejo tiene con el plano cartesiano ordinario se pueden aplicar los mismos factores de conversión que en coordenadas cartesianas para pasar de polar a rectangular o viceversa, siempre y cuando se tomen en cuenta las limitaciones de los complejos para operaciones aritméticas.
+
+* Los complejos aplican las mismas propiedades para la suma que los números reales sin embargo para el producto y la división tienen ciertas limitaciones, debido a esto la suma se trabaja en coordenadas rectangulares y el producto y división en coordenadas polares (forma fasorial).
+
 ## 6. Bibliografia
