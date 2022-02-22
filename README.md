@@ -53,9 +53,15 @@ NRC: 10149
 
 ![3 1](https://user-images.githubusercontent.com/93224166/155058724-2da054de-48bf-4613-8bd6-2d0baaccd8f0.png)
 
+![9 lab 9](https://user-images.githubusercontent.com/93951775/155137363-75b35fc8-099d-406d-bc4e-08125aaa1086.JPG)
+
 ![3 2](https://user-images.githubusercontent.com/93224166/155058725-5ec658c3-a68a-40d0-b6ff-df5bec4aa121.png)
 
+![10 lab 9](https://user-images.githubusercontent.com/93951775/155137380-09c4780e-4446-4d59-b45e-e28d6a86ee6b.JPG)
+
 ![3 3](https://user-images.githubusercontent.com/93224166/155058726-1a36e057-1b2d-4321-88f0-10fc29e258b6.png)
+
+![11 lab 9](https://user-images.githubusercontent.com/93951775/155137400-4d6dfc30-34ce-433e-95b3-ec2ebf5dc14a.JPG)
 
 
 
